@@ -1,0 +1,13 @@
+Source: deepin-meta-codecs
+Section: multiverse/admin
+Priority: optional
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+
+Package: deepin-meta-codecs
+Architecture: any
+Depends: libdvdnav4, libdvdread4, cabextract, 
+  libavcodec-extra-53, flashplugin11-installer 
+Description: All the packages required for multimedia support in Linux Deepin.
+ All the packages required for multimedia support in Linux Deepin.
