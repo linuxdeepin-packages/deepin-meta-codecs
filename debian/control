@@ -7,7 +7,7 @@ Standards-Version: 3.9.2
 
 Package: deepin-meta-codecs
 Architecture: any
-Depends: libdvdnav4, libdvdread4, cabextract, 
+Depends: ${misc:Depends}, libdvdnav4, libdvdread4, cabextract, 
   libavcodec-extra-53, flashplugin11-installer 
-Description: All the packages required for multimedia support in Linux Deepin.
+Description: Multimedia meta package for Linux Deepin
  All the packages required for multimedia support in Linux Deepin.
